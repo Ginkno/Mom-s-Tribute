@@ -11,10 +11,10 @@ html {
 }
 
 .classli {
-  padding-top: 50px;
+  padding-top: 52px;
   padding-bottom: 50px;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .color {
@@ -37,7 +37,7 @@ h1 {
   height: 42vh;
   width: 20vw;
   border-radius: 100%;
-  margin-top: 6%;
+  margin-top: 150px;
   margin-left: 39.6%;
   align-items: center;
   -webkit-box-shadow: 5px 5px 15px 0px #000000; 
