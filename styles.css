@@ -98,6 +98,10 @@ html {
   
 }
 
+li .classli .endereco {
+  margin-left: 8%;
+}
+
 .cardsize {
   width: 25vw;
   height: 70vh;
@@ -128,7 +132,7 @@ html {
 
 .endereco {
   margin-top: 1%;
-  margin-left: 8%;
+  margin-left: 2%;
 }
 
 .descri {
