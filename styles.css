@@ -26,6 +26,16 @@ html {
   margin-top: 8%;
 }
 
+h1.intro-p {
+  left: 410px;
+  display: inline-block;
+}
+
+a.nav-link.active.fs-4, a.nav-link.fs-4 {
+  padding-top: 14px;
+}
+  
+
 .img {
   height: 42vh;
   width: 20vw;
