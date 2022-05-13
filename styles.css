@@ -13,7 +13,7 @@ html {
   padding-bottom: 50px;
   padding-left: 50px;
   padding-right: 50px;
-  margin-left: 2.5%;
+  margin-left: 2.5vw;
 }
 
 .color {
@@ -62,7 +62,7 @@ html {
   text-align: justify;
   display: block;
   margin-top: 3%;
-  margin-left: 22%;
+  margin-left: 12vw;
   margin-right: auto;
   font-family: 'Dancing Script', cursive, sans-serif;
   font-size: 64px;
