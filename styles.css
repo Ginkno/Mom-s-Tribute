@@ -13,7 +13,7 @@ html {
   padding-bottom: 50px;
   padding-left: 50px;
   padding-right: 50px;
-  margin-left: 2.5%;
+  margin-left: 3.5%;
 }
 
 .color {
@@ -62,7 +62,7 @@ html {
   text-align: justify;
   display: block;
   margin-top: 3%;
-  margin-left: 30%;
+  margin-left: 32%;
   margin-right: auto;
   font-family: 'Dancing Script', cursive, sans-serif;
   font-size: 64px;
@@ -79,7 +79,7 @@ html {
   padding: 0;
    /* Bonus: forces no word-wrap */
   white-space: nowrap;
-  margin-left: 12%;
+  margin-left: 16%;
 }
 
 .services {
