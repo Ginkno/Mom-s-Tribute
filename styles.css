@@ -65,7 +65,7 @@ h1 {
 .intro-p {
   position: relative;
   text-align: justify;
-  display: block;
+  display: inline-block;
   margin-top: 3%;
   margin-left: 2%;
   margin-right: auto;
@@ -138,7 +138,6 @@ li {
 
 .endereco {
   margin-top: 1%;
-  margin-left: 2%;
 }
 
 .descri {
