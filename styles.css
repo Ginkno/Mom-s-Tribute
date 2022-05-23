@@ -164,3 +164,10 @@ li {
 #servicos {
   scroll-margin-top: -155px;
 }
+
+
+@media only screen and (min-device-width: 480px) {
+  * {
+    width: 100%;
+  }
+}
