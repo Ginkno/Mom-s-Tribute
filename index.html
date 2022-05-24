@@ -79,10 +79,19 @@
           <a href="https://www.instagram.com/conexao.tarot/"><i class="fa-brands fa-instagram"><img class="iconsize" src="images/1161953_instagram_icon.png" alt=""></i></a>
         </li>
       
-       
+       <p id="demo">This only shows when the window is more than 500.</p>
+       <p id="message" style="display: none;">Please use this on a desktop.</p>
+
+
       </ul>      
     </div>
   </footer>
 </body>
 <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
+<script>
+if (window.innerWidth > 500 && < 800){
+    document.getElementById("demo").style.display = "none";
+    document.getElementById("message").style.display = "block";
+}
+</script>
 </html>
